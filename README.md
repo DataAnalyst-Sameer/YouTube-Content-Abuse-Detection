@@ -54,7 +54,7 @@ jupyter notebook
 - Integrate **YouTube API** to fetch real-time comments
 
 ## 📚 License
-This project is open-source and available under the **MIT License**.
+This project is open-source.
 
 ## 👍 Contributing
 Pull requests are welcome! Feel free to suggest improvements or report issues.
